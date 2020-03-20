@@ -258,6 +258,7 @@
 
 .context-item {
   padding-top: 11px;
+  flex: 0 1 100%;
 
   & .code-snippet {
     padding-top: 0;
